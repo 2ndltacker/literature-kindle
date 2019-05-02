@@ -1,0 +1,6 @@
+*.mobi filter=lfs diff=lfs merge=lfs -text
+*.opf filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.calibre filter=lfs diff=lfs merge=lfs -text
+*.azw3 filter=lfs diff=lfs merge=lfs -text
